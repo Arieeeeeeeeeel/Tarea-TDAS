@@ -27,13 +27,13 @@ Este pequeño programa sirve para ingresar pacientes a la base de datos, pudiend
 ## Ejemplo de uso
 ### Función Registro paciente
 Se registra el paciente rellenando los datos en el siguiente orden: Nombre, Edad y Sintoma.
-# Función Asignar prioridad
+### Función Asignar prioridad
 Como se sabe, todos los pacientes al ser registrados, se les asigna una prioridad baja automáticamente. Esta función de asignar prioridad, nos ayuda a asignarle una prioridad nueva al paciente, solamente ingresando su nombre y la prioridad a actualizar.
-# Función Mostrar Lista de Espera
+### Función Mostrar Lista de Espera
 Como dice la función, esta nos muestra la lista de espera que tenemos en el orden de prioridad y hora de llegada.
-# Función Atender al siguiente paciente
+### Función Atender al siguiente paciente
 En base a la función de lista de espera, atendemos al siguiente paciente, respetando la prioridad y el orden de llegada.
-# Función Mostrar Pacientes por prioridad
+### Función Mostrar Pacientes por prioridad
 Nos muestra las prioridades a escoger (baja, media, alta) y al seleccionar una se nos muestra en pantalla todos los pacientes que tienen esa prioridad.
 
 
