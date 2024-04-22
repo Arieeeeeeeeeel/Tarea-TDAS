@@ -25,7 +25,7 @@ Este pequeño programa sirve para ingresar pacientes a la base de datos, pudiend
 - Restringir palabras erróneas, solo aceptar nombres, edad y sintomas correctos
 
 ## Ejemplo de uso
-# Función Registro paciente
+### Función Registro paciente
 Se registra el paciente rellenando los datos en el siguiente orden: Nombre, Edad y Sintoma.
 # Función Asignar prioridad
 Como se sabe, todos los pacientes al ser registrados, se les asigna una prioridad baja automáticamente. Esta función de asignar prioridad, nos ayuda a asignarle una prioridad nueva al paciente, solamente ingresando su nombre y la prioridad a actualizar.
